@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "thumb": "project1.png",
+        "thumbFull": "project1-full.png",
+        "tags": ["Web", "Coding"],
+        "title": "Document manager application"
+    },
+    {
+        "id": 2,
+        "thumb": "project2.png",
+        "thumbFull": "2-full.jpg",
+        "tags": ["Software", "Mobile"],
+        "title": "Dynamic mobile app development"
+    },
+    {
+        "id": 3,
+        "thumb": "project3.png",
+        "thumbFull": "3-full.jpg",
+        "tags": ["Brochure", "Design"],
+        "title": "Printable professional brochure templates"
+    },
+    {
+        "id": 4,
+        "thumb": "project4.png",
+        "thumbFull": "6-full.jpg",
+        "tags": ["Brand", "Mockup"],
+        "title": "Create stunning product flexible mockups"
+    },
+    {
+        "id": 5,
+        "thumb": "project5.png",
+        "thumbFull": "5-full.jpg",
+        "tags": ["Design", "Art"],
+        "title": "Decor design vectors illustrations"
+    },
+    {
+        "id": 6,
+        "thumb": "project6.jpg",
+        "thumbFull": "4-full.jpg",
+        "tags": ["Music", "Video"],
+        "title": "Making smart software smartphones"
+    }
+]
