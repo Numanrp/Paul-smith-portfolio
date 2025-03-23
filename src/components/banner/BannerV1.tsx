@@ -40,10 +40,10 @@ const BannerV1 = () => {
                                         </span>
                                     </h2>
                                     <p>
-                                        Experienced web developer with 8 years of expertise in front-end, back-end, SEO,
-                                        and local SEO. Skilled in HTML, CSS, JavaScript, React.js, PHP, MySQL, Shopify,
-                                        and eCommerce solutions. I create responsive,
-                                        high-performance websites optimized for search engines and business growth.
+                                    I am a seasoned business owner and web development expert with 8 years of experience
+                                     in crafting high-performing websites, optimizing search engine visibility,
+                                      and driving online growth. My expertise spans across web development, local SEO,
+                                     and digital marketing, helping businesses establish a strong online presence.
                                     </p>
                                     <div className="flex-social mt-40">
                                         <div className="button">
